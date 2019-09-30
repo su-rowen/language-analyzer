@@ -1,0 +1,1114 @@
+ou mwen 
+	 Eske mwen kapab pran foto ou?
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Mwen renmen ou.
+	 Mwen renmen ou anpil.
+	 Eske mwen kapab pran foto ou?
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Mwen renmen ou.
+	 Mwen renmen ou anpil.
+
+ou sa 
+	 Sa ou vlè?
+	 Sa ou bezoin? 
+	 Sa ou genyen?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Sa ou vlè?
+	 Sa kap fe ou mal.
+	 Sa ou vlè? Ki sa ou vle?
+	 Sa ou bezoin?
+	 Sa ou genyen?
+	 Ki sa wop fe? Sa ou fè la?
+	 Sa ou vlè?
+	 Sa ou bezoin? 
+	 Sa ou genyen?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Sa ou vlè?
+	 Sa kap fe ou mal.
+	 Sa ou vlè? Ki sa ou vle?
+	 Sa ou bezoin?
+	 Sa ou genyen?
+	 Ki sa wop fe? Sa ou fè la?
+
+ou pa 
+	 Mwen pa gen adrès ou.
+	 M pa tande ou.
+	 Ou pa kap pra' m' !
+	 Mwen pa gen adrès ou.
+	 M pa tande ou.
+	 Ou pa kap pra' m' !
+
+ou vle 
+	 Eske ou vle ale?
+	 Ou vle manje?
+	 Ou vle bwe? 
+	 Ou vle manje?
+	 Ou vle bwe?
+	 Kisa ou vle bwe?
+	 Sa ou vlè? Ki sa ou vle?
+	 Eske ou vle ale?
+	 Eske ou vle ale?
+	 Ou vle manje?
+	 Ou vle bwe? 
+	 Ou vle manje?
+	 Ou vle bwe?
+	 Kisa ou vle bwe?
+	 Sa ou vlè? Ki sa ou vle?
+	 Eske ou vle ale?
+
+ou ki 
+	 Ki adrès ou? 
+	 Ki nasyonalite ou?
+	 Ki gen ou rele? 
+	 Ki non zanmi ou an?
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Sa ou vlè? Ki sa ou vle?
+	 Ki sa wop fe? Sa ou fè la?
+	 Ki adrès ou? 
+	 Ki nasyonalite ou?
+	 Ki gen ou rele? 
+	 Ki non zanmi ou an?
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Sa ou vlè? Ki sa ou vle?
+	 Ki sa wop fe? Sa ou fè la?
+
+ou gen 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Ou gen linèt solèy?
+	 Ki gen ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Ou gen lè fatige. 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Ou gen linèt solèy?
+	 Ki gen ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Ou gen lè fatige. 
+
+ou fè 
+	 M'kontan fè konesans ou.
+	 Vant ou fè mal?
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	 Kisa ou te fè yè?
+	 Ki sa wop fe? Sa ou fè la?
+	 M'kontan fè konesans ou.
+	 Vant ou fè mal?
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	 Kisa ou te fè yè?
+	 Ki sa wop fe? Sa ou fè la?
+
+ou m 
+	 M pa tande ou.
+	 Ou pral avè m?
+	 M pa tande ou.
+	 Ou pral avè m?
+
+ou mwe 
+	 Mwe kontan fe konesana ou.
+	 Mwe kontan fe konesana ou.
+
+ou eske 
+	 Eske mwen kapab pran foto ou?
+	 Eske ou vle ale?
+	 Eske ou grangou?
+	 Eske ou pale angle?
+	 Ou konprann? Eske ou konprann? 
+	 Eske ou grangou?
+	 Eske ou fini?
+	 Eske ou vle ale?
+	 Eske mwen kapab pran foto ou?
+	 Eske ou vle ale?
+	 Eske ou grangou?
+	 Eske ou pale angle?
+	 Ou konprann? Eske ou konprann? 
+	 Eske ou grangou?
+	 Eske ou fini?
+	 Eske ou vle ale?
+
+ou ale 
+	 Eske ou vle ale?
+	 Eske ou vle ale?
+	 Eske ou vle ale?
+	 Eske ou vle ale?
+
+ou fe 
+	 Mwe kontan fe konesana ou.
+	 Sa kap fe ou mal.
+	 Ki sa wop fe? Sa ou fè la?
+	 Mwe kontan fe konesana ou.
+	 Sa kap fe ou mal.
+	 Ki sa wop fe? Sa ou fè la?
+
+ou pou 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou souple 
+	 Paspò ou souple!
+	 Ou ka repete souple?
+	 Ou ka pale dousman souple?
+	 Paspò ou souple!
+	 Ou ka repete souple?
+	 Ou ka pale dousman souple?
+
+ou ka 
+	 Mwen ka gen adrès ou? 
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ou ka repete souple?
+	 Ou ka pale dousman souple?
+	 Mwen ka gen adrès ou? 
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ou ka repete souple?
+	 Ou ka pale dousman souple?
+
+ou ye 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Kijan ou ye?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Kijan ou ye?
+
+ou ede 
+	 Mwen ka ede ou?
+	 Ou bezwen ede?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ou bezwen ede? 
+	 Mwen ka ede ou?
+	 Ou bezwen ede?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ou bezwen ede? 
+
+ou pale 
+	 Eske ou pale angle?
+	 Ou ka pale dousman souple?
+	 Eske ou pale angle?
+	 Ou ka pale dousman souple?
+
+ou lè 
+	 Ou gen lè fatige. 
+	 Ou gen lè fatige. 
+
+ou mal 
+	 Vant ou fè mal?
+	 Sa kap fe ou mal.
+	 Vant ou fè mal?
+	 Sa kap fe ou mal.
+
+ou rele 
+	 Kijan ou rele? 
+	 Ki gen ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Kijan ou rele? 
+	 Ki gen ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+
+ou kisa 
+	 Kisa ou pral bwè?
+	 Kisa ou vle bwe?
+	 Kisa ou te fè yè?
+	 Kisa ou pral bwè?
+	 Kisa ou vle bwe?
+	 Kisa ou te fè yè?
+
+ou prale 
+	 Kibò ou prale?
+	 Kibò ou prale?
+	 Kibò ou prale?
+	 Kibò ou prale?
+
+ou pran 
+	 Eske mwen kapab pran foto ou?
+	 Pran san ou.
+	 Pran san ou konnen vo.
+	 Pran san ou.
+	 Eske mwen kapab pran foto ou?
+	 Pran san ou.
+	 Pran san ou konnen vo.
+	 Pran san ou.
+
+ou la 
+	 Ki sa wop fe? Sa ou fè la?
+	 Ki sa wop fe? Sa ou fè la?
+
+ou konprann 
+	 Ou konprann? Eske ou konprann? 
+	 Ou konprann? Eske ou konprann? 
+
+ou bezwen 
+	 Ou bezwen ede?
+	 Ou bezwen ede? 
+	 Ou bezwen ede?
+	 Ou bezwen ede? 
+
+ou kijan 
+	 Kijan ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Kijan ou ye?
+	 Kijan ou rele? 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Kijan ou ye?
+
+ou kouma 
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+ou anpil 
+	 Mwen renmen ou anpil.
+	 Mwen renmen ou anpil.
+
+ou te 
+	 Kisa ou te fè yè?
+	 Kisa ou te fè yè?
+
+ou adrès 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Ki adrès ou? 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Ki adrès ou? 
+
+ou konnen 
+	 Pran san ou konnen vo.
+	 Pran san ou konnen vo.
+
+ou kapab 
+	 Eske mwen kapab pran foto ou?
+	 Eske mwen kapab pran foto ou?
+
+ou kibò 
+	 Kibò ou prale?
+	 Kibò ou soti?
+	 Kibò ou prale?
+	 Kibò ou prale?
+	 Kibò ou soti?
+	 Kibò ou prale?
+
+ou san 
+	 Pran san ou.
+	 Pran san ou konnen vo.
+	 Pran san ou.
+	 Pran san ou.
+	 Pran san ou konnen vo.
+	 Pran san ou.
+
+ou vlè 
+	 Sa ou vlè?
+	 Sa ou vlè?
+	 Sa ou vlè? Ki sa ou vle?
+	 Sa ou vlè?
+	 Sa ou vlè?
+	 Sa ou vlè? Ki sa ou vle?
+
+ou zanmi 
+	 Ki non zanmi ou an?
+	 Ki non zanmi ou an?
+
+ou sa-a 
+	 èske ou kase sa-a? 
+	 èske ou kase sa-a? 
+
+ou bwe 
+	 Ou vle bwe? 
+	 Ou vle bwe?
+	 Kisa ou vle bwe?
+	 Ou vle bwe? 
+	 Ou vle bwe?
+	 Kisa ou vle bwe?
+
+ou malad 
+	 Ou malad? 
+	 Ou malad? 
+
+ou angle 
+	 Eske ou pale angle?
+	 Eske ou pale angle?
+
+ou kap 
+	 Ou pa kap pra' m' !
+	 Sa kap fe ou mal.
+	 Ou pa kap pra' m' !
+	 Sa kap fe ou mal.
+
+ou m' 
+	 Ou pa kap pra' m' !
+	 Ou pa kap pra' m' !
+
+ou bezoin 
+	 Sa ou bezoin? 
+	 Sa ou bezoin?
+	 Sa ou bezoin? 
+	 Sa ou bezoin?
+
+ou genyen 
+	 Sa ou genyen?
+	 Sa ou genyen?
+	 Sa ou genyen?
+	 Sa ou genyen?
+
+ou konesans 
+	 M'kontan fè konesans ou.
+	 M'kontan fè konesans ou.
+
+ou kontan 
+	 Mwe kontan fe konesana ou.
+	 Mwe kontan fe konesana ou.
+
+ou pita 
+	 Na ou pita!
+	 Na ou pita!
+
+ou manje 
+	 Ou vle manje?
+	 Ou vle manje?
+	 Ou vle manje?
+	 Ou vle manje?
+
+ou efreye 
+	 Ou efreye?
+	 Ou efreye?
+
+ou grangou 
+	 Eske ou grangou?
+	 Eske ou grangou?
+	 Eske ou grangou?
+	 Eske ou grangou?
+
+ou ti 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou pral 
+	 Kisa ou pral bwè?
+	 Ou pral avè m?
+	 Kisa ou pral bwè?
+	 Ou pral avè m?
+
+ou bwè 
+	 Kisa ou pral bwè?
+	 Kisa ou pral bwè?
+
+ou renmen 
+	 Mwen renmen ou.
+	 Mwen renmen ou anpil.
+	 Mwen renmen ou.
+	 Mwen renmen ou anpil.
+
+ou kase 
+	 èske ou kase sa-a? 
+	 èske ou kase sa-a? 
+
+ou bezwenn 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou menm 
+	 E ou menm? 
+	 E ou menm? 
+
+ou foto 
+	 Eske mwen kapab pran foto ou?
+	 Eske mwen kapab pran foto ou?
+
+ou non 
+	 Ki non zanmi ou an?
+	 Ki non zanmi ou an?
+
+ou fini 
+	 Eske ou fini?
+	 Eske ou fini?
+
+ou nasyonalite 
+	 Ki nasyonalite ou?
+	 Ki nasyonalite ou?
+
+ou soti 
+	 Kibò ou soti?
+	 Kibò ou soti?
+
+ou paspò 
+	 Paspò ou souple!
+	 Paspò ou souple!
+
+ou na 
+	 Na ou pita!
+	 Na ou pita!
+
+ou linèt 
+	 Ou gen linèt solèy?
+	 Ou gen linèt solèy?
+
+ou solèy 
+	 Ou gen linèt solèy?
+	 Ou gen linèt solèy?
+
+ou m'kontan 
+	 M'kontan fè konesans ou.
+	 M'kontan fè konesans ou.
+
+ou konesana 
+	 Mwe kontan fe konesana ou.
+	 Mwe kontan fe konesana ou.
+
+ou blese 
+	 Ou blese?
+	 Ou blese?
+
+ou e 
+	 E ou menm? 
+	 E ou menm? 
+
+ou va 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+ou fatige 
+	 Ou gen lè fatige. 
+	 Ou gen lè fatige. 
+
+ou vant 
+	 Vant ou fè mal?
+	 Vant ou fè mal?
+
+ou repete 
+	 Ou ka repete souple?
+	 Ou ka repete souple?
+
+ou wop 
+	 Ki sa wop fe? Sa ou fè la?
+	 Ki sa wop fe? Sa ou fè la?
+
+ou tande 
+	 M pa tande ou.
+	 M pa tande ou.
+
+ou dousman 
+	 Ou ka pale dousman souple?
+	 Ou ka pale dousman souple?
+
+ou tè 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou dezoid 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou chita 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou isit 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou tan 
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+ou vo 
+	 Pran san ou konnen vo.
+	 Pran san ou konnen vo.
+
+ou pra' 
+	 Ou pa kap pra' m' !
+	 Ou pa kap pra' m' !
+
+ou yè 
+	 Kisa ou te fè yè?
+	 Kisa ou te fè yè?
+
+ou avè 
+	 Ou pral avè m?
+	 Ou pral avè m?
+
+ou èske 
+	 èske ou kase sa-a? 
+	 èske ou kase sa-a? 
+
+mwen sa 
+	 Ki sa mwen ka fè pou ou. 
+	 Kebe sa pou mwen. 
+	 Sa se pitit mwen. 
+	 Kebe sa pou mwen.
+	 Ban mwen sa.
+	 Ki sa mwen ka fè pou ou.
+	 Ki sa mwen ka fè pou ou. 
+	 Kebe sa pou mwen. 
+	 Sa se pitit mwen. 
+	 Kebe sa pou mwen.
+	 Ban mwen sa.
+	 Ki sa mwen ka fè pou ou.
+
+mwen pa 
+	 Mwen pa abitwe (abitye).
+	 Mwen pa gen adrès ou.
+	 Mwen santi m pa byen.
+	 Mwen pa gen ankò. 
+	 Mwen pa abitwe (abitye).
+	 Mwen pa gen adrès ou.
+	 Mwen santi m pa byen.
+	 Mwen pa gen ankò. 
+
+mwen vle 
+	 Mwen vle al(e) nan twalèt.
+	 Mwen vle ede.
+	.. Mwen vle...
+	 Mwen vle kafe.
+	.. Mwen vle...
+	 Mwen vle al(e) nan twalèt.
+	 Mwen vle ede.
+	.. Mwen vle...
+	 Mwen vle kafe.
+	.. Mwen vle...
+
+mwen ki 
+	 Ki sa mwen ka fè pou ou. 
+	 Ki sa mwen ka fè pou ou.
+	 Ki sa mwen ka fè pou ou. 
+	 Ki sa mwen ka fè pou ou.
+
+mwen gen 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Mwen pa gen ankò. 
+	 Mwen ka gen adrès ou? 
+	 Mwen pa gen adrès ou.
+	 Mwen pa gen ankò. 
+
+mwen fè 
+	 Ki sa mwen ka fè pou ou. 
+	 Ki sa mwen ka fè pou ou.
+	 Ki sa mwen ka fè pou ou. 
+	 Ki sa mwen ka fè pou ou.
+
+mwen eske 
+	 Eske mwen kapab pran foto ou?
+	 Eske mwen kapab pran foto ou?
+
+mwen pou 
+	 Rete pou mwen souple.
+	 Ki sa mwen ka fè pou ou. 
+	 Kebe sa pou mwen. 
+	 Kebe sa pou mwen.
+	 Ki sa mwen ka fè pou ou.
+	 Rete pou mwen souple.
+	 Ki sa mwen ka fè pou ou. 
+	 Kebe sa pou mwen. 
+	 Kebe sa pou mwen.
+	 Ki sa mwen ka fè pou ou.
+
+mwen se 
+	 Se zanmi mwen Jean.
+	 Sa se pitit mwen. 
+	 Se zanmi mwen Jean.
+	 Sa se pitit mwen. 
+
+mwen souple 
+	 Rete pou mwen souple.
+	 Rete pou mwen souple.
+
+mwen ka 
+	 Mwen ka gen adrès ou? 
+	 Ki sa mwen ka fè pou ou. 
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ki sa mwen ka fè pou ou.
+	 Mwen ka gen adrès ou? 
+	 Ki sa mwen ka fè pou ou. 
+	 Mwen ka ede ou?
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ki sa mwen ka fè pou ou.
+
+mwen ede 
+	 Mwen ka ede ou?
+	 Mwen vle ede.
+	 Ou ka ede mwen?
+	 Mwen ka ede ou? 
+	 Ede mwen silvouplè.
+
+mwen pran 
+	 Eske mwen kapab pran foto ou?
+
+mwen nan 
+	 Mwen vle al(e) nan twalèt.
+
+mwen anpil 
+	 Mwen renmen ou anpil.
+
+mwen adrès 
+	 Mwen ka gen adrès ou? 
+
+mwen adrès 
+	 Mwen pa gen adrès ou.
+
+mwen kapab 
+	 Eske mwen kapab pran foto ou?
+
+mwen kapab 
+	 Mwen kapab tann.
+
+mwen zanmi 
+	 Se zanmi mwen Jean.
+
+mwen ban 
+	 Ban mwen sa.
+
+mwen malad 
+	 Mwen malad.
+
+mwen trè 
+	 Mwen trè kontan. 
+
+mwen kebe 
+	 Kebe sa pou mwen. 
+
+mwen kebe 
+	 Kebe sa pou mwen.
+
+mwen rete 
+	 Rete pou mwen souple.
+
+mwen kenbe 
+	 Kenbe men mwen.
+
+mwen kontan 
+	 Mwen trè kontan. 
+
+mwen twalèt 
+	 Mwen vle al(e) nan twalèt.
+
+mwen renmen 
+	 Mwen renmen ou.
+
+mwen renmen 
+	 Mwen renmen ou anpil.
+
+mwen (abitye) 
+	 Mwen pa abitwe (abitye).
+
+mwen foto 
+	 Eske mwen kapab pran foto ou?
+
+mwen al(e) 
+	 Mwen vle al(e) nan twalèt.
+
+mwen abitwe 
+	 Mwen pa abitwe (abitye).
+
+mwen pedi 
+	 Mwen pedi.
+
+mwen tann 
+	 Mwen kapab tann.
+
+mwen jean 
+	 Se zanmi mwen Jean.
+
+mwen santi 
+	 Mwen santi m pa byen.
+
+mwen byen 
+	 Mwen santi m pa byen.
+
+mwen silvouplè 
+	 Ede mwen silvouplè.
+
+mwen kafe 
+	 Mwen vle kafe.
+
+mwen swaf 
+	 Mwen swaf.
+
+mwen pitit 
+	 Sa se pitit mwen. 
+
+mwen men 
+	 Kenbe men mwen.
+
+mwen ankò 
+	 Mwen pa gen ankò. 
+
+sa vle 
+	 Sa ou vlè? Ki sa ou vle?
+
+sa ki 
+	 Ki sa mwen ka fè pou ou. 
+
+sa ki 
+	 Ki moun sa te ye?
+
+sa ki 
+	 Sa ou vlè? Ki sa ou vle?
+
+sa ki 
+	 Ki sa mwen ka fè pou ou.
+
+sa ki 
+	 Ki sa wop fe? Sa ou fè la?
+
+sa fè 
+	 Ki sa mwen ka fè pou ou. 
+
+sa fè 
+	 Ki sa mwen ka fè pou ou.
+
+sa fè 
+	 Ki sa wop fe? Sa ou fè la?
+
+sa fe 
+	 Sa kap fe ou mal.
+
+sa fe 
+	 Ki sa wop fe? Sa ou fè la?
+
+sa fe 
+	Ou fe sa. 
+
+sa pou 
+	 Ki sa mwen ka fè pou ou. 
+
+sa pou 
+	 Kebe sa pou mwen. 
+
+sa pou 
+	 Kote sa pou?
+
+sa pou 
+	 Kebe sa pou mwen.
+
+sa pou 
+	 Ki sa mwen ka fè pou ou.
+
+sa se 
+	 Sa se pitit mwen. 
+
+sa ka 
+	 Ki sa mwen ka fè pou ou. 
+
+sa ka 
+	 Ki sa mwen ka fè pou ou.
+
+sa ye 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+sa ye 
+	 Ki moun sa te ye?
+
+sa moun 
+	 Ki moun sa te ye?
+
+sa kote 
+	 Kote sa pou?
+
+sa mal 
+	 Sa kap fe ou mal.
+
+sa la 
+	 Ki sa wop fe? Sa ou fè la?
+
+sa kijan 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+sa kouma 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+sa te 
+	 Ki moun sa te ye?
+
+sa k 
+	 Sa k pase?
+
+sa k 
+	 Sa k pase?
+
+sa vlè 
+	 Sa ou vlè?
+
+sa vlè 
+	 Sa ou vlè?
+
+sa vlè 
+	 Sa ou vlè? Ki sa ou vle?
+
+sa kilès 
+	 Kilès sa a? 
+
+sa kilès 
+	 Kilès sa a? 
+
+sa kilès 
+	 Kilès sa a?
+
+sa ban 
+	 Ban mwen sa.
+
+sa pase 
+	 Sa k pase?
+
+sa pase 
+	 Sa k pase?
+
+sa kebe 
+	 Kebe sa pou mwen. 
+
+sa kebe 
+	 Kebe sa pou mwen.
+
+sa kap 
+	 Sa kap fe ou mal.
+
+sa bezoin 
+	 Sa ou bezoin? 
+
+sa bezoin 
+	 Sa ou bezoin?
+
+sa genyen 
+	 Sa ou genyen?
+
+sa genyen 
+	 Sa ou genyen?
+
+sa va 
+	 Kijan ou ye? Sa va? Kouma ou ye?
+
+sa wop 
+	 Ki sa wop fe? Sa ou fè la?
+
+sa pitit 
+	 Sa se pitit mwen. 
+
+sa dangereh 
+	 Sa dangereh.
+
+pa vle 
+	.. Vie pa vle...
+
+pa gen 
+	 Mwen pa gen adrès ou.
+
+pa gen 
+	 Pa gen anyen m ap deklare.
+
+pa gen 
+	 Gen pa efreye.
+
+pa gen 
+	 Mwen pa gen ankò. 
+
+pa gen 
+	 Gen pa groje.
+
+pa gen 
+	 Pa gen anko. 
+
+pa m 
+	 Pa gen anyen m ap deklare.
+
+pa m 
+	 M pa tande ou.
+
+pa mwe 
+	 Mwe pa tro mal. 
+
+pa mwe 
+	 Mwe pa bon. 
+
+pa mwe 
+	 Mwe pa mal. 
+
+pa ale 
+	 Pa ale!
+
+pa se 
+	 Se pa m'.
+
+pa souple 
+	 Souple pa pale fò. 
+
+pa pale 
+	 Souple pa pale fò. 
+
+pa mal 
+	 Mew pa pi mal. 
+
+pa mal 
+	 Mwe pa tro mal. 
+
+pa mal 
+	 Mwe pa mal. 
+
+pa konprann 
+	 Eskize m, m pa konprann. 
+
+pa konprann 
+	 Non, mew pa konprann.M'pa konpran.Mwen pa konprann.
+
+pa nan 
+	 Pa jwe nan dlo-a. 
+
+pa bon 
+	 Mwe pa bon. 
+
+pa anko 
+	 Pa gen anko. 
+
+pa adrès 
+	 Mwen pa gen adrès ou.
+
+pa pi 
+	 Mew pa pi mal. 
+
+pa ap 
+	 Pa gen anyen m ap deklare.
+
+pa mache 
+	 Pa mache.
+
+pa yon 
+	 Pete pa yon kdlè. 
+
+pa sa-a 
+	 Pa kase sa-a!
+
+pa vie 
+	.. Vie pa vle...
+
+pa non, 
+	 Non, mew pa konprann.M'pa konpran.Mwen pa konprann.
+
+pa kap 
+	 Ou pa kap pra' m' !
+
+pa m' 
+	 Ou pa kap pra' m' !
+
+pa m' 
+	 Se pa m'.
+
+pa mew 
+	 Mew pa pi mal. 
+
+pa mew 
+	 Non, mew pa konprann.M'pa konpran.Mwen pa konprann.
+
+pa efreye 
+	 Gen pa efreye.
+
+pa fò 
+	 Souple pa pale fò. 
+
+pa eskize 
+	 Eskize m, m pa konprann. 
+
+pa kase 
+	 Pa kase sa-a!
+
+pa kdlè 
+	 Pete pa yon kdlè. 
+
+pa (abitye) 
+	 Mwen pa abitwe (abitye).
+
+pa abitwe 
+	 Mwen pa abitwe (abitye).
+
+pa anyen 
+	 Pa gen anyen m ap deklare.
+
+pa deklare 
+	 Pa gen anyen m ap deklare.
+
+pa dlo-a 
+	 Pa jwe nan dlo-a. 
+
+pa tro 
+	 Mwe pa tro mal. 
+
+pa dekwa 
+	 Pa dekwa.
+
+pa santi 
+	 Mwen santi m pa byen.
+
+pa byen 
+	 Mwen santi m pa byen.
+
+pa m, 
+	 Eskize m, m pa konprann. 
+
+pa tande 
+	 M pa tande ou.
+
+pa pra' 
+	 Ou pa kap pra' m' !
+
+pa jwe 
+	 Pa jwe nan dlo-a. 
+
+pa pete 
+	 Pete pa yon kdlè. 
+
+pa ankò 
+	 Mwen pa gen ankò. 
+
+pa groje 
+	 Gen pa groje.
+
+vle sa 
+	 Sa ou vlè? Ki sa ou vle?
+
+vle pa 
+	.. Vie pa vle...
+
+vle ki 
+	 Sa ou vlè? Ki sa ou vle?
+
+vle m 
+	 M vle te.
+
+vle mwe 
+	 Mwe vle fe zami avek tout moun.
+
+vle eske 
+	 Eske ou vle ale?
+
+vle eske 
+	 Eske ou vle ale?
+
+vle ale 
+	 Eske ou vle ale?
+
+vle ale 
+	 Eske ou vle ale?
+
+vle fe 
+	 Mwe vle fe zami avek tout moun.
+
+vle ede 
+	 Mwen vle ede.
+
+vle moun 
+	 Mwe vle fe zami avek tout moun.
+

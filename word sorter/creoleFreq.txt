@@ -1,0 +1,408 @@
+ou          		_____________________________	 Eske mwen kapab pran foto ou?
+
+mwen		_____________________________	 Eske mwen kapab pran foto ou?
+
+sa		_____________________________	 Ki sa mwen ka fè pou ou. 
+
+pa		_____________________________	 Mwen pa abitwe (abitye).
+
+vle		_____________________________	 Eske ou vle ale?
+
+ki		_____________________________	 Ki adrès ou? 
+
+gen		_____________________________	 Mwen ka gen adrès ou? 
+
+fè		_____________________________	 Fè m konnen lè w prale.
+
+m		_____________________________	 Fè m konnen lè w prale.
+
+eske		_____________________________	 Eske mwen kapab pran foto ou?
+
+ale		_____________________________	 Ann ale!
+
+nou		_____________________________	 Nou prale kounyeya.
+
+fe		_____________________________	 Mwe vle fe zami avek tout moun.
+
+se		_____________________________	 Nou se Ameriken.
+
+pou		_____________________________	 Rete pou mwen souple.
+
+mwe		_____________________________	 Mwe vle fe zami avek tout moun.
+
+li		_____________________________	 Ki le li ye? 
+
+ka		_____________________________	 Mwen ka gen adrès ou? 
+
+a		_____________________________	 N a wè pita.
+
+ye		_____________________________	 Ki le li ye? 
+
+souple		_____________________________	 Rete la souple.
+
+pale		_____________________________	 Souple, pale angle.
+
+ede		_____________________________	 Mwen ka ede ou?
+
+kote		_____________________________	 Kote twalet?
+
+lè		_____________________________	 Fè m konnen lè w prale.
+
+
+
+
+
+vie		_____________________________	 Mwe vie ale.
+
+malad		_____________________________	 Mwen malad.
+
+antre		_____________________________	 Antre!
+
+pase		_____________________________	 Sa k pase?
+
+mew		_____________________________	 Mew pa pi mal. 
+
+bwè		_____________________________	 Kisa ou pral bwè?
+
+ameriken		_____________________________	 Nou se Ameriken.
+
+genyen		_____________________________	 Sa ou genyen?
+
+bezoin		_____________________________	 Sa ou bezoin? 
+
+m'		_____________________________	 Ou pa kap pra' m' !
+
+mande		_____________________________	 Mande moun.
+
+m'eskize		_____________________________	 M'eskize.
+
+m'soti		_____________________________	 M'soti.
+
+kenbe		_____________________________	 N ap kenbe kontak.
+
+kap		_____________________________	 Ou pa kap pra' m' !
+
+mesi		_____________________________	 Trè byen, mesi.
+
+renmen		_____________________________	 Mwen renmen ou.
+
+eskize		_____________________________	 Eskize m, m pa konprann. 
+
+ti		_____________________________	 Mwe kapab pale ti cras'Creole.
+
+grangou		_____________________________	 Eske ou grangou?
+
+manje		_____________________________	 Ou vle manje?
+
+cho		_____________________________	  Li twò cho.
+
+non,		_____________________________	 Non, nou poko pre (pare).
+
+efreye		_____________________________	 Gen pa efreye.
+
+n		_____________________________	 N ap kenbe kontak.
+
+bonjou		_____________________________	 Bonjou! 
+
+mèsi		_____________________________	 Mèsi!
+
+kontan		_____________________________	 Mwe kontan fe konesana ou.
+
+tout		_____________________________	 Mwe vle fe zami avek tout moun.
+
+pita		_____________________________	 N a wè pita.
+
+vit		_____________________________	 Twò vit!
+
+konesans		_____________________________	 M'kontan fè konesans ou.
+
+kite		_____________________________	 Kite mwen, silvouple.
+
+rete		_____________________________	 Rete la souple.
+
+kebe'm		_____________________________	 Pipi/Tata kebe'm.
+
+rapid		_____________________________	 Twò rapid!
+
+fini		_____________________________	 Eske ou fini?
+
+wop		_____________________________	 Ki sa wop fe? Sa ou fè la?
+
+si		_____________________________	 Pou pi si premye.
+
+travay		_____________________________	 Bon travay. 
+
+repete		_____________________________	 Ou ka repete souple?
+
+m,		_____________________________	 Eskize m, m pa konprann. 
+
+goute		_____________________________	 Bam' goute.
+
+èske		_____________________________	 èske ou kase sa-a? 
+
+bebe		_____________________________	 Bebe bezwen couchete.
+
+retounen		_____________________________	 Retounen!
+
+konpran		_____________________________	
+
+lage		_____________________________	 Lage. 
+
+menm		_____________________________	 E ou menm? 
+
+avè		_____________________________	 Ou pral avè m?
+
+ankò		_____________________________	 Mwen pa gen ankò. 
+
+abitwe		_____________________________	 Mwen pa abitwe (abitye).
+
+mop		_____________________________	 Mop vini.
+
+òfelen		_____________________________	 Yo se òfelen.
+
+kontre-ak		_____________________________	 You moun kontre-ak mwe.
+
+groje		_____________________________	 Gen pa groje.
+
+chita		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+(kite		_____________________________	 Ban m (kite m) eseye. 
+
+m)		_____________________________	 Ban m (kite m) eseye. 
+
+pipi/tata		_____________________________	 Pipi/Tata kebe'm.
+
+eseye		_____________________________	 Ban m (kite m) eseye. 
+
+gade		_____________________________	 Bam' gade.
+
+m'ap		_____________________________	 M'ap fe anko. 
+
+premye		_____________________________	 Pou pi si premye.
+
+orevwa		_____________________________	
+
+entelijan		_____________________________	 Li fò anpil. Li entelijan anpil.
+
+couchete		_____________________________	 Bebe bezwen couchete.
+
+pete		_____________________________	 Pete pa yon kdlè. 
+
+avek		_____________________________	 Mwe vle fe zami avek tout moun.
+
+kdlè		_____________________________	 Pete pa yon kdlè. 
+
+jwe		_____________________________	 Pa jwe nan dlo-a. 
+
+poko		_____________________________	 Non, nou poko pre (pare).
+
+dlo-a		_____________________________	 Pa jwe nan dlo-a. 
+
+lèt-w/ji-w		_____________________________	 Bwè lèt-w/ji-w. 
+
+kiles		_____________________________	 Kiles?
+
+[morning]		_____________________________	 [Morning] Bonjou. 
+
+cras'creole		_____________________________	 Mwe kapab pale ti cras'Creole.
+
+van		_____________________________	 Pran van.
+
+de		_____________________________	
+
+ryen		_____________________________	 Merite.De ryen.
+
+mwen-l		_____________________________	 Ban mwen-l.
+
+ba		_____________________________	 Ba li yo.
+
+deklare		_____________________________	 Pa gen anyen m ap deklare.
+
+efò		_____________________________	 Fè yon efò.
+
+mete		_____________________________	 Mete sa-a la.
+
+dejene		_____________________________	 A ki lè yo sèvi dejene? 
+
+pinga		_____________________________	 Pinga!
+
+ferme		_____________________________	 Ferme porte-la.
+
+porte-la		_____________________________	 Ferme porte-la.
+
+men		_____________________________	 Kenbe men mwen.
+
+wi,		_____________________________	 Wi, nou pre (pare).
+
+dangereh		_____________________________	 Sa dangereh.
+
+yè		_____________________________	 Kisa ou te fè yè?
+
+paske		_____________________________	
+
+frè/sè		_____________________________	 Kote frè/sè w yo?
+
+anbrase		_____________________________	 Vini anbrase manmi.
+
+manmi		_____________________________	 Vini anbrase manmi.
+
+pra'		_____________________________	 Ou pa kap pra' m' !
+
+pitit		_____________________________	 Sa se pitit mwen. 
+
+na		_____________________________	 Na ou pita!
+
+vo		_____________________________	 Pran san ou konnen vo.
+
+tè		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+dezoid		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+(abitye)		_____________________________	 Mwen pa abitwe (abitye).
+
+bezwenn		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+isit		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+tan		_____________________________	Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+
+erez		_____________________________	 Erez anivèsè!
+
+swaf		_____________________________	 Mwen swaf.
+
+soupe		_____________________________	 A ki lè nou soupe?
+
+sèvi		_____________________________	 A ki lè yo sèvi dejene? 
+
+kafe		_____________________________	 Mwen vle kafe.
+
+dine		_____________________________	 Kisa k gen pou dine? 
+
+(drink,		_____________________________	 (drink, food) Li twò cho.
+
+food)		_____________________________	 (drink, food) Li twò cho.
+
+al(e)		_____________________________	 Mwen vle al(e) nan twalèt.
+
+vwayaj		_____________________________	 Bon vwayaj!
+
+dousman		_____________________________	 Ou ka pale dousman souple?
+
+m'pa		_____________________________	
+
+dousma		_____________________________	 Souple pale dousma.
+
+kreol		_____________________________	 Kouma ou di ... nan Kreol?
+
+tande		_____________________________	 M pa tande ou.
+
+ak		_____________________________	 Pale ak fòs.
+
+fòs		_____________________________	 Pale ak fòs.
+
+souple,		_____________________________	 Souple, pale angle.
+
+wè		_____________________________	 N a wè pita.
+
+blese		_____________________________	 Ou blese?
+
+vant		_____________________________	 Vant ou fè mal?
+
+blesse		_____________________________	 Gen blesse.
+
+silvouplè		_____________________________	 Ede mwen silvouplè.
+
+santi		_____________________________	 Mwen santi m pa byen.
+
+byen		_____________________________	 Mwen santi m pa byen.
+
+fatige		_____________________________	 Ou gen lè fatige. 
+
+[afternoon]		_____________________________	 [Afternoon] Bonswa. 
+
+djebenis		_____________________________	 Djebenis.
+
+anivèsè		_____________________________	 Erez anivèsè!
+
+va		_____________________________	 Kijan ou ye? Sa va? Kouma ou ye?
+
+m'byen		_____________________________	 M'byen. 
+
+dekwa		_____________________________	 Pa dekwa.
+
+tro		_____________________________	 Mwe pa tro mal. 
+
+padekwa		_____________________________	 Padekwa!
+
+merite		_____________________________	 Merite.De ryen.
+
+e		_____________________________	 E ou menm? 
+
+bagay		_____________________________	 Tout bagay mache bien. 
+
+byen,		_____________________________	 Trè byen, mesi.
+
+plaisir		_____________________________	 Se youn plaisir fè konesans ou!
+
+m'rele		_____________________________	 M'rele.
+
+kisasa		_____________________________	 Kisasa?
+
+non		_____________________________	 Ki non zanmi ou an?
+
+an		_____________________________	
+
+jean		_____________________________	 Se zanmi mwen Jean.
+
+konesana		_____________________________	 Mwe kontan fe konesana ou.
+
+youn		_____________________________	 Se youn plaisir fè konesans ou!
+
+m'kontan		_____________________________	 M'kontan fè konesans ou.
+
+linèt		_____________________________	 Ou gen linèt solèy?
+
+solèy		_____________________________	 Ou gen linèt solèy?
+
+tann		_____________________________	 Mwen kapab tann.
+
+paspò		_____________________________	 Paspò ou souple!
+
+anyen		_____________________________	 Pa gen anyen m ap deklare.
+
+le		_____________________________	 Ki le li ye? 
+
+kilè		_____________________________	 Kilè w ap kite?
+
+soti		_____________________________	 Kibò ou soti?
+
+nasyonalite		_____________________________	 Ki nasyonalite ou?
+
+taxsi		_____________________________	 Mwe bezwen yon taxsi.
+
+ekri		_____________________________	 Souple ekri m.
+
+kontak		_____________________________	 N ap kenbe kontak.
+
+kounyeya		_____________________________	 Nou prale kounyeya.
+
+twalet		_____________________________	 Kote twalet?
+
+you		_____________________________	 You moun kontre-ak mwe.
+
+zami		_____________________________	 Mwe vle fe zami avek tout moun.
+
+pedi		_____________________________	 Mwen pedi.
+
+plaj		_____________________________	 Ann al nan plaj!
+
+map		_____________________________	 Map mache apie.
+
+apie		_____________________________	 Map mache apie.
+
+foto		_____________________________	 Eske mwen kapab pran foto ou?
+
+mwen,		_____________________________	 Kite mwen, silvouple.
+
+silvouple		_____________________________	 Kite mwen, silvouple.
+

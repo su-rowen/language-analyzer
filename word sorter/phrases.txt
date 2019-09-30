@@ -1,0 +1,236 @@
+Go to bed. Al dòmi.
+Kouche. Let's go! Ann ale!
+Go to Sleep. Ale Dòmi.
+Do you want to go? Eske ou vle ale?
+Wake up. Leve.
+Where are you going? Kibò ou prale?
+Where are we going? Kote nou ale?
+Did you break that? èske ou kase sa-a? 
+Come back! Retounen!
+Don't break that! Pa kase sa-a!
+Are you going with me? Ou pral avè m?
+Don't go! Pa ale!
+Are you finished? Eske ou fini?
+I am going to come back. Mop vini.
+Is there anymore? Gen anko?
+Let me know when you are leaving. Fè m konnen lè w prale.
+There is no more. Pa gen anko. 
+Come in! Antre!
+Don't be greedy. Gen pa groje.
+I don't have anymore. Mwen pa gen ankò. 
+It is easy. Se fasil.
+It was easy. Se te fasil.
+Let me try. Ban m (kite m) eseye. 
+Let me say it. Bam' di.
+Let me do it. Bam' fe. 
+Let me see. Bam' gade.
+Now you do it.Ou fe sa. 
+Let me taste it. Bam' goute.
+I'm going to do it again. M'ap fe anko. 
+Like it or not... Vie pa vle...
+Do it again. Fe anko.
+Make friends. Fè zanmi.
+Make sure first. Pou pi si premye.
+He, she is very intelligent. Li fò anpil. Li entelijan anpil.
+The baby needs a diaper. Bebe bezwen couchete.
+Don't fly off the handle. Pete pa yon kdlè. 
+They are orphans. Yo se òfelen.
+Don't play in the water. Pa jwe nan dlo-a. 
+What are you doing? Ki sa wop fe? Sa ou fè la?
+Drink your milk/juice. Bwè lèt-w/ji-w. 
+Which one? Kiles?
+Show me what to do. Ki sa mwen ka fè pou ou.
+What is that? Kisa sa a ye?
+We are American. Nou se Ameriken.
+Give me that. Ban mwen sa.
+Who is this? Kilès sa a?
+Let go. Lage. 
+What do you have? Sa ou genyen?
+Give it to me. Ban mwen-l.
+What do you need? Sa ou bezoin?
+Give them to her. Ba li yo.
+What do you want? Sa ou vlè? Ki sa ou vle?
+It is mine. Se pa m'.
+Make an effort. Fè yon efò.
+Put that down. Mete sa-a la.
+ Ask around. Mande moun.
+Be patient. Pran san ou.
+Be careful! Pinga!
+Close the door. Ferme porte-la.
+Hold my hand. Kenbe men mwen.
+Hold this for me. Kebe sa pou mwen.
+That can hurt you. Sa kap fe ou mal.
+I apologize. M'eskize.
+It's dangerous. Sa dangereh.
+What did you do yesterday? Kisa ou te fè yè?
+Where are your brothers/sisters? Kote frè/sè w yo?
+Where does it go? Kote sa pou?
+I have to pee/poop. Pipi/Tata kebe'm.
+Come give me a hug. Vini anbrase manmi.
+You can't get me! Ou pa kap pra' m' !
+I like (love) you very much. Mwen renmen ou anpil.
+I want... Mwen vle...
+I like (love) you. Mwen renmen ou.
+This is my child. Sa se pitit mwen. 
+Apologize. Eskize.
+Good Job. Bon travay. 
+Be patient. Pran san ou konnen vo.
+Because you were bad you need to sit here for a little while.Paske ou tè fè dezoid ou bezwenn chita isit pou ti tan.
+Are you hungry? Eske ou grangou?
+What do you want to drink? Kisa ou vle bwe?
+What do you want? Sa ou vlè?
+I'm thirsty. Mwen swaf.
+At what time do we eat supper? A ki lè nou soupe?
+Do you want to drink? Ou vle bwe?
+At what time they serve lunch? A ki lè yo sèvi dejene? 
+Do you want to eat? Ou vle manje?
+I want coffee. Mwen vle kafe.
+I want... Mwen vle...
+I want tea. M vle te.
+Is it good? Eske li bon?
+What's for dinner? Kisa k gen pou dine? 
+It's too hot! (drink, food) Li twò cho.
+What are you going to drink? Kisa ou pral bwè?
+Do you understand? Ou konprann? Eske ou konprann? 
+Can you please speak slowly? Ou ka pale dousman souple?
+No, I do not understand. Non, mew pa konprann.M'pa konpran.Mwen pa konprann.
+Please speak slowly. Souple pale dousma.
+I'm sorry, I don't understand. Eskize m, m pa konprann. 
+How do you say ... in Creole? Kouma ou di ... nan Kreol?
+I can't hear you. M pa tande ou.
+Speak louder. Pale ak fòs.
+I can speak a little Creole. Mwe kapab pale ti cras'Creole.
+Please do not speak loudly. Souple pa pale fò. 
+Do you speak English? Eske ou pale angle?
+Can you please repeat? Ou ka repete souple?
+Please, speak English. Souple, pale angle.
+Are you hungry? Eske ou grangou?
+Do you have a scrape/cut? Ou blese?
+Are you sick? Ou malad? 
+Does your stomach hurt? Vant ou fè mal?
+Do you need help? Ou bezwen ede? 
+I have a boo boo. Gen blesse.
+Help me please. Ede mwen silvouplè.
+It hurts. Li fe mal.
+Can I help you? Mwen ka ede ou? 
+Are you afraid? Ou efreye?
+Can you help me? Ou ka ede mwen?
+Don't be afraid. Gen pa efreye.
+I want to help. Mwen vle ede.
+It's too hot (drink, food)!  Li twò cho.
+Hold this for me. Kebe sa pou mwen. 
+I am sick. Mwen malad.
+Do you want to drink? Ou vle bwe? 
+I don't feel well. Mwen santi m pa byen.
+Do you want to eat? Ou vle manje?
+I want to go to the bathroom. Mwen vle al(e) nan twalèt.
+You look tired. Ou gen lè fatige. 
+Where is the toilet? Kote twalèt la ye la a?
+Welcome! Bien vini! 
+What's happening? Sa k pase?
+Hello. [Afternoon] Bonswa. 
+What's up? Sa k pase?
+Hello. [Morning] Bonjou. 
+Who was that? Ki moun sa te ye?
+Good evening! Bonswa! 
+Come in! Antre!
+Good morning! Bonjou! 
+Bless you. Djebenis.
+How are you doing? Kijan ou ye?
+ Happy birthday! Erez anivèsè!
+How are you? Kijan ou ye? Sa va? Kouma ou ye?
+I am very glad. Mwen trè kontan. 
+Thank you very much! Mesi anpil!
+I'm fine. M'byen. 
+Thank you! Mèsi!
+I'm not bad. Mwe pa mal. 
+Thanks! Mèsi!
+Remèsiman!
+I'm not good. Mwe pa bon. 
+Don't mention it. Pa dekwa.
+I'm not too bad. Mwe pa tro mal. 
+You're welcome! Padekwa!
+I'm not worse. Mew pa pi mal. 
+You're welcome. Merite.De ryen.
+Good afternoon! Bonswa!
+And you? E ou menm? 
+Do you need help? Ou bezwen ede?
+Everything is fine. Tout bagay mache bien. 
+Can I help you? Mwen ka ede ou?
+Very well, thank you. Trè byen, mesi.
+See you later! Na ou pita!
+What is your name? Ki gen ou rele? Kouma ou rele? Kijan ou rele?
+See you later. N a wè pita.
+Who is this? Kilès sa a? 
+Good-bye. Babay.Orevwa.
+Who are you? Ki moun ou ye? 
+Bye! Babay!
+My name is. M'rele.
+I'm from. M'soti.
+Pardon? Kisa?
+What's his name? Kisasa?
+What is your friend's name? Ki non zanmi ou an?
+This is my friend John. Se zanmi mwen Jean.
+I am happy to meet you. Mwe kontan fe konesana ou.
+It's a pleasure to meet you! Se youn plaisir fè konesans ou!
+It's nice to meet you. M'kontan fè konesans ou.
+What is your name? Ki gen ou rele? 
+Do you have sun glasses? Ou gen linèt solèy?
+What is your name? Kouma ou rele? 
+Get a breath of fresh air. Pran van.
+What's your name? Kijan ou rele? 
+Have a nice trip! Bon vwayaj!
+Who is this? Kilès sa a? 
+I can wait. Mwen kapab tann.
+What do you have? Sa ou genyen?
+What do you need? Sa ou bezoin? 
+Your passport please! Paspò ou souple!
+What do you want? Sa ou vlè?
+Do you have anything to declare?
+Ou pa gen anyen w ap deklare?
+I have nothing to declare. Pa gen anyen m ap deklare.
+What time is it? Ki le li ye? 
+When are you leaving? Kilè w ap kite?
+At what time? Ki lè?
+Where are you from? Kibò ou soti?
+Where do you live/stay?
+Kote rete ou?
+Show me what to do. Ki sa mwen ka fè pou ou. 
+What's your nationality? Ki nasyonalite ou?
+We are American. Nou se Ameriken.
+Wake up. Leve. 
+I'm from. M'soti.
+Be patient. Pran san ou.
+I need a taxi. Mwe bezwen yon taxsi.
+I apologize. M'eskize.
+Where are you going? Kibò ou prale?
+Where are we going? Kote nou ale?
+What's your address? Ki adrès ou? 
+I want to go to. Mwe vie ale.
+I don't have your address. Mwen pa gen adrès ou.
+Are you (group) ready? Nou pre (pare)?
+Can I have your address? Mwen ka gen adrès ou? 
+Yes, we are ready. Wi, nou pre (pare).
+Please write to me. Souple ekri m.
+No, we are not ready yet. Non, nou poko pre (pare).
+We'll keep in touch. N ap kenbe kontak.
+ We are leaving now. Nou prale kounyeya.
+Stop for me please. Rete pou mwen souple.
+Faster! Pi vit! 
+Stop here please. Rete la souple.
+Too fast! Twò vit!
+Too fast! Twò rapid!
+Where is the bathroom? Kote twalet?
+Someone is meeting me. You moun kontre-ak mwe.
+Ask around. Mande moun.
+Out of order. Pa mache.
+I want to be friends with everyone. Mwe vle fe zami avek tout moun.
+I'm lost. Mwen pedi.
+Let's go to the beach! Ann al nan plaj!
+I'm walking to. Map mache apie.
+Do you want to go? Eske ou vle ale?
+It is not my custom. Mwen pa abitwe (abitye).
+Let's go! Ann ale!
+May I take your picture? Eske mwen kapab pran foto ou?
+Let me know when you are leaving. Fè m konnen lè w prale.
+Leave me alone, please. Kite mwen, silvouple.
